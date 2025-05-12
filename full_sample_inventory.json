@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Electronics",
+    "product_id": "E1001",
+    "name": "Smartphone",
+    "price": 599.99,
+    "quantity_in_stock": 10,
+    "warranty_years": 2,
+    "brand": "Samsung"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E1002",
+    "name": "Laptop",
+    "price": 999.99,
+    "quantity_in_stock": 5,
+    "warranty_years": 3,
+    "brand": "Dell"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G2001",
+    "name": "Milk",
+    "price": 2.99,
+    "quantity_in_stock": 30,
+    "expiry_date": "2025-05-17"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G2002",
+    "name": "Yogurt",
+    "price": 1.99,
+    "quantity_in_stock": 20,
+    "expiry_date": "2024-05-01"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C3001",
+    "name": "T-Shirt",
+    "price": 19.99,
+    "quantity_in_stock": 50,
+    "size": "L",
+    "material": "Cotton"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C3002",
+    "name": "Jeans",
+    "price": 39.99,
+    "quantity_in_stock": 25,
+    "size": "M",
+    "material": "Denim"
+  }
+]
